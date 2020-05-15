@@ -11,10 +11,6 @@ Vif supports all the video formats that OS and HTML5 supports (mp4, mov, HEVC, m
 <img src="http://i.imgur.com/XM6K2Hg.png" width="600px">
 
 
-## Download and Install:
-[The latest release](https://github.com/soroushchehresa/Vif/releases/latest)
-
-
 ## This project implemented by the following technologies:
 * [Electron](https://github.com/electron)
 * [React](https://github.com/facebook/react)
