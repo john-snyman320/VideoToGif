@@ -17,9 +17,3 @@ Vif supports all the video formats that OS and HTML5 supports (mp4, mov, HEVC, m
 * [Sass](https://sass-lang.com)
 * [gifshot](https://github.com/yahoo/gifshot)
 * and so on ...
-
-
-## Support:
-<a href="https://www.patreon.com/soroushchehresa">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
